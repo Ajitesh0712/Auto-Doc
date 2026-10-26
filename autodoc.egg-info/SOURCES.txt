@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+autodoc/_init_.py
+autodoc/ast_parser.py
+autodoc.egg-info/PKG-INFO
+autodoc.egg-info/SOURCES.txt
+autodoc.egg-info/dependency_links.txt
+autodoc.egg-info/top_level.txt
+tests/test_ast_parser.py
